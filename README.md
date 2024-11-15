@@ -1,1 +1,3 @@
 # Python_Intro_File_Handling
+
+This Jupyter Notebook contains Python scripts focused on basic programming tasks, file handling, and data manipulation. It begins with simple function definitions to print messages and lists, progresses to reading and writing text and JSON files, and demonstrates methods to manipulate and display dictionary data using Python’s built-in functionalities. Later cells showcase advanced file operations like saving multiple objects in JSON format and reading them back. The final cell is designed for parsing a file (`CrimeReport.txt`) as JSON and extracting specific information (tweet IDs). The notebook emphasizes fundamental Python programming techniques, including file I/O and data serialization.
